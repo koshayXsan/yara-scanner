@@ -1,6 +1,6 @@
 # YARA Scanner
 
-A command-line tool that scans files against custom YARA rules and reports a weighted risk score, rather than a simple yes/no match.
+A command-line tool that scans files against custom YARA rules and reports a weighted risk score.
 
 ## What it does
 
