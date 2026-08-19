@@ -19,9 +19,9 @@ A single suspicious string alone (e.g. the word "bitcoin") isn't a reliable sign
 | Rule | Detects | Score |
 |---|---|---|
 | `EICAR_Test_File` | The standard EICAR antivirus test string | 100 |
-| `Suspicious_Ransomware_Note` | 2+ common ransomware note phrases | 60 |
-| `Suspicious_PowerShell_Download` | 2+ indicators of silent download-and-execute PowerShell | 70 |
-| `Suspicious_PHP_Webshell` | 3+ common PHP webshell functions | 80 |
+| `Ransomware_Note` | 2+ common ransomware note phrases | 60 |
+| `PowerShell_Download` | 2+ indicators of silent download-and-execute PowerShell | 70 |
+| `PHP_Webshell` | 3+ common PHP webshell functions | 80 |
 
 ## Installation
 
